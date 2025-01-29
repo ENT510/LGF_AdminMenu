@@ -10,6 +10,11 @@ This resource is in its current state, and while it's compatible with QBox and E
 <img src="https://github.com/user-attachments/assets/26d6046a-abdf-4687-aec0-003a561d2417" width="400" />
 <img src="https://github.com/user-attachments/assets/542d1883-eb0b-4c6f-a0bc-aa3e37a4af49" width="400" />
 
+<img src="https://github.com/user-attachments/assets/b6360649-1db0-4901-ab43-f89625538c6d" width="400" />
+<img src="https://github.com/user-attachments/assets/b58df5c6-e812-4312-b6ab-aeb9ec905a35" width="400" />
+
+
+
 ## Features
 - **Code Execution Page**: For debugging purposes (recommended for creators only).
 - **Leaflet Map with Player List**: Shows a map with a list of players.
