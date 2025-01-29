@@ -18,12 +18,18 @@ This resource is in its current state, and while it's compatible with QBox and E
 - **LGF_Utility**: This is required for managing the UI placement, framework interactions, and other essential functions.
 
 ### Setup Instructions:
-1. **Install `LGF_Utility`**:
+1. **Install `LGF_Utility`**: [LGF_Utility GitHub Repository](https://github.com/Legacy-Scripts/LGF_Utility)
    - Ensure that `LGF_Utility` is installed and properly configured in your server environment.
 
-2. **Configure Permissions**:
-   - Open the `modules/server/sv-config.lua` file.
-   - Insert the license of the player to give the proper permissions.
+2. **License Configuration**:
+   - To give the necessary permissions, add your license details to the `modules/server/sv-config.lua` file. You can find this file within the project directory.
+
+3. **UI and Framework Compatibility**:
+   - The resource is compatible with QBox, ESX, and requires the use of the `LGF_Utility` for managing UI elements, prop placements, and framework functionalities.
+
+4. **Data Management**:
+   - Vehicle, Ped, and Object data management is handled through the `web/components/data` folder.
+
 
 ### Folder Structure:
 - The vehicle, ped, and object data is located in: `web/components/data`
