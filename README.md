@@ -1,7 +1,6 @@
 ![GitHub Downloads](https://img.shields.io/github/downloads/ENT510/LGF_AdminMenu/total?logo=github)
 ![GitHub Release](https://img.shields.io/github/v/release/ENT510/LGF_AdminMenu?logo=github)
 
-
 # LGF Admin Menu
 
 This resource is in its current state, and while it's compatible with QBox and ESX, it requires my `LGF_Utility` for UI management and framework handling. Vehicle, ped, and object data are stored in `web/components/data`. Pull requests for improvements or new features are welcome.
@@ -11,6 +10,14 @@ This resource is in its current state, and while it's compatible with QBox and E
 <img src="https://github.com/user-attachments/assets/26d6046a-abdf-4687-aec0-003a561d2417" width="400" />
 <img src="https://github.com/user-attachments/assets/542d1883-eb0b-4c6f-a0bc-aa3e37a4af49" width="400" />
 
+## Features
+- **Code Execution Page**: For debugging purposes (recommended for creators only).
+- **Leaflet Map with Player List**: Shows a map with a list of players.
+- **Entity Spawner**: Spawn peds, objects, and vehicles in the game world.
+- **Resource Manager**: Allows for managing and restarting resources.
+- **Debug Tools**: Includes raycast debugging for entities.
+- **Inventory Management**: Add items to the inventory.
+- **Dashboard with Logs**: Keeps track of actions and provides an entity counter for better monitoring.
 
 ## Configuration
 
@@ -30,11 +37,9 @@ This resource is in its current state, and while it's compatible with QBox and E
 4. **Data Management**:
    - Vehicle, Ped, and Object data management is handled through the `web/components/data` folder.
 
-
 ### Folder Structure:
 - The vehicle, ped, and object data is located in: `web/components/data`
 
 ## Contributing
 
 Feel free to open issues or submit pull requests if you would like to contribute new features, optimizations, or bug fixes.
-
