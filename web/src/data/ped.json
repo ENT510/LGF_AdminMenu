@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "model": "a_f_m_soucentmc_01",
+        "image": "https://docs.fivem.net/peds/a_f_m_soucentmc_01.webp"
+    },
+    {
+        "id": 2,
+        "model": "a_m_m_beach_01",
+        "image": "https://docs.fivem.net/peds/a_m_m_beach_01.webp"
+    },
+    {
+        "id": 3,
+        "model": "a_f_y_beach_01",
+        "image": "https://docs.fivem.net/peds/a_f_y_beach_01.webp"
+    },
+    {
+        "id": 4,
+        "model": "a_m_m_business_01",
+        "image": "https://docs.fivem.net/peds/a_m_m_business_01.webp"
+    },
+    {
+        "id": 5,
+        "model": "a_m_m_farmer_01",
+        "image": "https://docs.fivem.net/peds/a_m_m_farmer_01.webp"
+    },
+    {
+        "id": 6,
+        "model": "a_f_y_hipster_01",
+        "image": "https://docs.fivem.net/peds/a_f_y_hipster_01.webp"
+    },
+    {
+        "id": 7,
+        "model": "a_m_y_hipster_01",
+        "image": "https://docs.fivem.net/peds/a_m_y_hipster_01.webp"
+    },
+    {
+        "id": 8,
+        "model": "a_m_m_tourist_01",
+        "image": "https://docs.fivem.net/peds/a_m_m_tourist_01.webp"
+    },
+    {
+        "id": 9,
+        "model": "a_f_m_tourist_01",
+        "image": "https://docs.fivem.net/peds/a_f_m_tourist_01.webp"
+    },
+    {
+        "id": 10,
+        "model": "a_m_m_eastsa_01",
+        "image": "https://docs.fivem.net/peds/a_m_m_eastsa_01.webp"
+    },
+    {
+        "id": 11,
+        "model": "a_f_y_eastsa_01",
+        "image": "https://docs.fivem.net/peds/a_f_y_eastsa_01.webp"
+    },
+    {
+        "id": 12,
+        "model": "a_m_m_afriamer_01",
+        "image": "https://docs.fivem.net/peds/a_m_m_afriamer_01.webp"
+    },
+
+
+    {
+        "id": 16,
+        "model": "a_m_y_genstreet_02",
+        "image": "https://docs.fivem.net/peds/a_m_y_genstreet_02.webp"
+    },
+    {
+        "id": 17,
+        "model": "a_m_m_eastsa_02",
+        "image": "https://docs.fivem.net/peds/a_m_m_eastsa_02.webp"
+    },
+    {
+        "id": 18,
+        "model": "a_f_y_hipster_02",
+        "image": "https://docs.fivem.net/peds/a_f_y_hipster_02.webp"
+    },
+    {
+        "id": 19,
+        "model": "a_m_m_og_boss_01",
+        "image": "https://docs.fivem.net/peds/a_m_m_og_boss_01.webp"
+    },
+    {
+        "id": 20,
+        "model": "a_m_m_mexlabor_01",
+        "image": "https://docs.fivem.net/peds/a_m_m_mexlabor_01.webp"
+    },
+
+
+
+    {
+        "id": 31,
+        "model": "a_m_y_soucent_01",
+        "image": "https://docs.fivem.net/peds/a_m_y_soucent_01.webp"
+    },
+    {
+        "id": 32,
+        "model": "a_f_m_soucent_01",
+        "image": "https://docs.fivem.net/peds/a_f_m_soucent_01.webp"
+    }
+
+]

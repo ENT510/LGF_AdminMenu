@@ -1,0 +1,341 @@
+[
+    {
+      "id": 1,
+      "name": "T20",
+      "model": "t20",
+      "image": "https://docs.fivem.net/vehicles/t20.webp",
+      "class": "super"
+    },
+    {
+      "id": 2,
+      "name": "Adder",
+      "model": "adder",
+      "image": "https://docs.fivem.net/vehicles/adder.webp",
+      "class": "sports"
+    },
+    {
+      "id": 3,
+      "name": "Banshee 900R",
+      "model": "banshee2",
+      "image": "https://docs.fivem.net/vehicles/banshee2.webp",
+      "class": "sports"
+    },
+    {
+      "id": 4,
+      "name": "Cheetah",
+      "model": "cheetah",
+      "image": "https://docs.fivem.net/vehicles/cheetah.webp",
+      "class": "super"
+    },
+    {
+      "id": 5,
+      "name": "Entity XF",
+      "model": "entityxf",
+      "image": "https://docs.fivem.net/vehicles/entityxf.webp",
+      "class": "super"
+    },
+    {
+      "id": 6,
+      "name": "Infernus",
+      "model": "infernus",
+      "image": "https://docs.fivem.net/vehicles/infernus.webp",
+      "class": "super"
+    },
+    {
+      "id": 7,
+      "name": "Osiris",
+      "model": "osiris",
+      "image": "https://docs.fivem.net/vehicles/osiris.webp",
+      "class": "super"
+    },
+    {
+      "id": 8,
+      "name": "Penetrator",
+      "model": "penetrator",
+      "image": "https://docs.fivem.net/vehicles/penetrator.webp",
+      "class": "super"
+    },
+    {
+      "id": 9,
+      "name": "Reaper",
+      "model": "reaper",
+      "image": "https://docs.fivem.net/vehicles/reaper.webp",
+      "class": "super"
+    },
+    {
+      "id": 10,
+      "name": "Zentorno",
+      "model": "zentorno",
+      "image": "https://docs.fivem.net/vehicles/zentorno.webp",
+      "class": "super"
+    },
+    {
+      "id": 11,
+      "name": "Peyote",
+      "model": "peyote",
+      "image": "https://docs.fivem.net/vehicles/peyote.webp",
+      "class": "muscle"
+    },
+    {
+      "id": 12,
+      "name": "Vigero",
+      "model": "vigero",
+      "image": "https://docs.fivem.net/vehicles/vigero.webp",
+      "class": "muscle"
+    },
+    {
+      "id": 13,
+      "name": "Ruiner",
+      "model": "ruiner",
+      "image": "https://docs.fivem.net/vehicles/ruiner.webp",
+      "class": "muscle"
+    },
+    {
+      "id": 14,
+      "name": "Dominator",
+      "model": "dominator",
+      "image": "https://docs.fivem.net/vehicles/dominator.webp",
+      "class": "muscle"
+    },
+    {
+      "id": 15,
+      "name": "Vigero",
+      "model": "vigero2",
+      "image": "https://docs.fivem.net/vehicles/vigero2.webp",
+      "class": "muscle"
+    },
+    {
+      "id": 16,
+      "name": "Dukes",
+      "model": "dukes",
+      "image": "https://docs.fivem.net/vehicles/dukes.webp",
+      "class": "muscle"
+    },
+    {
+      "id": 17,
+      "name": "Gauntlet",
+      "model": "gauntlet",
+      "image": "https://docs.fivem.net/vehicles/gauntlet.webp",
+      "class": "muscle"
+    },
+
+    {
+      "id": 19,
+      "name": "Panto",
+      "model": "panto",
+      "image": "https://docs.fivem.net/vehicles/panto.webp",
+      "class": "compacts"
+    },
+    {
+      "id": 20,
+      "name": "Issi Classic",
+      "model": "issi2",
+      "image": "https://docs.fivem.net/vehicles/issi2.webp",
+      "class": "compacts"
+    },
+    {
+      "id": 21,
+      "name": "Brioso R/A",
+      "model": "brioso",
+      "image": "https://docs.fivem.net/vehicles/brioso.webp",
+      "class": "compacts"
+    },
+
+    {
+      "id": 23,
+      "name": "Tornado",
+      "model": "tornado",
+      "image": "https://docs.fivem.net/vehicles/tornado.webp",
+      "class": "classic"
+    },
+    {
+      "id": 24,
+      "name": "Tornado 2",
+      "model": "tornado2",
+      "image": "https://docs.fivem.net/vehicles/tornado2.webp",
+      "class": "classic"
+    },
+    {
+      "id": 25,
+      "name": "Stinger",
+      "model": "stingergt",
+      "image": "https://docs.fivem.net/vehicles/stingergt.webp",
+      "class": "classic"
+    },
+    {
+      "id": 26,
+      "name": "Brawler",
+      "model": "brawler",
+      "image": "https://docs.fivem.net/vehicles/brawler.webp",
+      "class": "off-road"
+    },
+    {
+      "id": 27,
+      "name": "Blazer Aqua",
+      "model": "blazer3",
+      "image": "https://docs.fivem.net/vehicles/blazer3.webp",
+      "class": "off-road"
+    },
+    {
+      "id": 28,
+      "name": "Futo",
+      "model": "futo",
+      "image": "https://docs.fivem.net/vehicles/futo.webp",
+      "class": "compact"
+    },
+    {
+      "id": 29,
+      "name": "Kalahari",
+      "model": "kalahari",
+      "image": "https://docs.fivem.net/vehicles/kalahari.webp",
+      "class": "off-road"
+    },
+    {
+      "id": 30,
+      "name": "Sandking",
+      "model": "sandking",
+      "image": "https://docs.fivem.net/vehicles/sandking.webp",
+      "class": "off-road"
+    },
+    {
+      "id": 31,
+      "name": "Rocoto",
+      "model": "rocoto",
+      "image": "https://docs.fivem.net/vehicles/rocoto.webp",
+      "class": "off-road"
+    },
+    {
+      "id": 32,
+      "name": "Sultan",
+      "model": "sultan",
+      "image": "https://docs.fivem.net/vehicles/sultan.webp",
+      "class": "sports"
+    },
+    {
+      "id": 33,
+      "name": "Elegy RH8",
+      "model": "elegy",
+      "image": "https://docs.fivem.net/vehicles/elegy.webp",
+      "class": "sports"
+    },
+    {
+      "id": 34,
+      "name": "F620",
+      "model": "f620",
+      "image": "https://docs.fivem.net/vehicles/f620.webp",
+      "class": "sports"
+    },
+    {
+      "id": 35,
+      "name": "Penumbra",
+      "model": "penumbra",
+      "image": "https://docs.fivem.net/vehicles/penumbra.webp",
+      "class": "sports"
+    },
+    {
+      "id": 36,
+      "name": "Feltzer",
+      "model": "feltzer2",
+      "image": "https://docs.fivem.net/vehicles/feltzer2.webp",
+      "class": "sports"
+    },
+    {
+      "id": 37,
+      "name": "Ninef",
+      "model": "ninef",
+      "image": "https://docs.fivem.net/vehicles/ninef.webp",
+      "class": "sports"
+    },
+    {
+      "id": 38,
+      "name": "Schafter",
+      "model": "schafter3",
+      "image": "https://docs.fivem.net/vehicles/schafter3.webp",
+      "class": "sports"
+    },
+    {
+      "id": 39,
+      "name": "Comet",
+      "model": "comet2",
+      "image": "https://docs.fivem.net/vehicles/comet2.webp",
+      "class": "sports"
+    },
+    {
+      "id": 40,
+      "name": "Baller",
+      "model": "baller",
+      "image": "https://docs.fivem.net/vehicles/baller.webp",
+      "class": "suv"
+    },
+    {
+      "id": 41,
+      "name": "Cavalcade",
+      "model": "cavalcade",
+      "image": "https://docs.fivem.net/vehicles/cavalcade.webp",
+      "class": "suv"
+    },
+    {
+      "id": 42,
+      "name": "Dubsta",
+      "model": "dubsta",
+      "image": "https://docs.fivem.net/vehicles/dubsta.webp",
+      "class": "suv"
+    },
+    {
+      "id": 43,
+      "name": "Granger",
+      "model": "granger",
+      "image": "https://docs.fivem.net/vehicles/granger.webp",
+      "class": "suv"
+    },
+    {
+      "id": 44,
+      "name": "XLS",
+      "model": "xls",
+      "image": "https://docs.fivem.net/vehicles/xls.webp",
+      "class": "suv"
+    },
+    {
+      "id": 45,
+      "name": "Kuruma 2",
+      "model": "kuruma2",
+      "image": "https://docs.fivem.net/vehicles/kuruma2.webp",
+      "class": "suv"
+    },
+    {
+      "id": 46,
+      "name": "Jester",
+      "model": "jester",
+      "image": "https://docs.fivem.net/vehicles/jester.webp",
+      "class": "sports"
+    },
+    {
+      "id": 47,
+      "name": "Banshee",
+      "model": "banshee",
+      "image": "https://docs.fivem.net/vehicles/banshee.webp",
+      "class": "sports"
+    },
+    {
+      "id": 48,
+      "name": "Massacro",
+      "model": "massacro",
+      "image": "https://docs.fivem.net/vehicles/massacro.webp",
+      "class": "sports"
+    },
+    {
+      "id": 49,
+      "name": "Tempesta",
+      "model": "tempesta",
+      "image": "https://docs.fivem.net/vehicles/tempesta.webp",
+      "class": "super"
+    },
+    {
+      "id": 50,
+      "name": "Turismo R",
+      "model": "turismo2",
+      "image": "https://docs.fivem.net/vehicles/turismo2.webp",
+      "class": "super"
+    }
+  ]
+  

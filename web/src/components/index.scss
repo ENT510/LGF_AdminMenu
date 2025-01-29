@@ -1,0 +1,65 @@
+:root {
+    --panel-bg-color: rgb(45, 55, 72); 
+    --panel-border-radius: 8px;
+    --panel-transition-duration: 0.7s; 
+    --panel-gap: 18px;  
+}
+
+body {
+    user-select: none;
+    color: #e0e0e0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    overflow: hidden;
+    background-image: url("https://i.imgur.com/iPTAdYV.png");
+}
+
+.container {
+    position: fixed;
+    display: flex;
+    padding: 10px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    gap: 10px;
+    border-radius: 6px;
+
+    background: linear-gradient(135deg, rgb(30, 41, 59), rgb(17, 24, 39), rgb(36, 40, 47));
+
+    opacity: 0;
+    border: 1px solid rgba(231, 231, 231, 0.736);
+}
+
+.sidebar {
+    background-color: rgba(45, 55, 72, 0);
+    color: #fafafa;
+    padding: 10px;
+    display: flex;
+
+    flex-direction: column;
+  }
+  
+  .left {
+    align-items: flex-start;
+  }
+
+  .tab-content {
+    flex: 1;
+    padding: 10px;
+    background-color: transparent; ;
+
+  }
+
+.slide-in {
+    opacity: 1;
+}
+
+.slide-out {
+    opacity: 0;
+    pointer-events: none;
+}
+
+
+.editor {
+  border-radius: 10px;
+  background-color: red;
+}
