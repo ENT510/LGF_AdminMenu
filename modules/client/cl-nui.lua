@@ -76,6 +76,6 @@ function NUI.togglePanel(state)
   })
 end
 
-RegisterCommand("de", function()
+RegisterCommand(Config.Command_OpenPanel, function()
   NUI.togglePanel(true)
 end)
