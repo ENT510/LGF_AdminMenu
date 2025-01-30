@@ -1,5 +1,8 @@
 Config = {}
 
+Config.Command_OpenPanel = "openAdminPanel"
+
+
 Config.Logs = {
     -- Enable logging for CFX resources (not synced, works locally only)
     -- This log is an example of logging during operations like restarting a script.
