@@ -47,7 +47,7 @@ This resource is in its current state, and while it's compatible with QBox and E
    - Vehicle, Ped, and Object data management is handled through the `web/components/data` folder.
 
 ### Folder Structure:
-- The vehicle, ped, and object data is located in: `web/components/data`
+- The vehicle, ped, and object data is located in: `web/components/data` and you need to rebuild the component for effective change!
 
 ## Contributing
 
