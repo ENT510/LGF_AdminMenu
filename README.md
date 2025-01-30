@@ -1,6 +1,10 @@
 ![GitHub Downloads](https://img.shields.io/github/downloads/ENT510/LGF_AdminMenu/total?logo=github)
 ![GitHub Release](https://img.shields.io/github/v/release/ENT510/LGF_AdminMenu?logo=github)
 
+
+# NOT FULLY FINISHED NOT FULLY FINISHED ⚠️⚠️
+
+
 # LGF Admin Menu
 
 This resource is in its current state, and while it's compatible with QBox and ESX, it requires my `LGF_Utility` for UI management and framework handling. Vehicle, ped, and object data are stored in `web/components/data`. Pull requests for improvements or new features are welcome.
