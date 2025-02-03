@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Command_OpenPanel = "openAdminPanel"
+Config.CommandOpenAdmin = "admin"
 
 
 Config.Logs = {
@@ -21,5 +21,5 @@ Config.Logs = {
     _AccessToolsEnabled          = true,
 
     -- Enable logging for entity spawner (synced)
-    _EntitySpawnerEnabled        = true 
+    _EntitySpawnerEnabled        = true
 }

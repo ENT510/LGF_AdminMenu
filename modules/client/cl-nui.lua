@@ -76,6 +76,6 @@ function NUI.togglePanel(state)
   })
 end
 
-RegisterCommand(Config.Command_OpenPanel, function()
+RegisterCommand(Config.CommandOpenAdmin, function()
   NUI.togglePanel(true)
 end)

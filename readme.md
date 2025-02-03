@@ -11,6 +11,14 @@ This resource is in its current state, and while it's compatible with QBox and E
 <img src="https://github.com/user-attachments/assets/26d6046a-abdf-4687-aec0-003a561d2417" width="400" />
 <img src="https://github.com/user-attachments/assets/542d1883-eb0b-4c6f-a0bc-aa3e37a4af49" width="400" />
 
+## Features
+- **Code Execution Page**: For debugging purposes (recommended for creators only).
+- **Leaflet Map with Player List**: Shows a map with a list of players.
+- **Entity Spawner**: Spawn peds, objects, and vehicles in the game world.
+- **Resource Manager**: Allows for managing and restarting resources.
+- **Debug Tools**: Includes raycast debugging for entities.
+- **Inventory Management**: Add items to the inventory.
+- **Dashboard with Logs**: Keeps track of actions and provides an entity counter for better monitoring.
 
 ## Configuration
 
@@ -18,12 +26,17 @@ This resource is in its current state, and while it's compatible with QBox and E
 - **LGF_Utility**: This is required for managing the UI placement, framework interactions, and other essential functions.
 
 ### Setup Instructions:
-1. **Install `LGF_Utility`**:
+1. **Install `LGF_Utility`**: [LGF_Utility GitHub Repository](https://github.com/Legacy-Scripts/LGF_Utility)
    - Ensure that `LGF_Utility` is installed and properly configured in your server environment.
 
-2. **Configure Permissions**:
-   - Open the `modules/server/sv-config.lua` file.
-   - Insert the license of the player to give the proper permissions.
+2. **License Configuration**:
+   - To give the necessary permissions, add your license details to the `modules/server/sv-config.lua` file. You can find this file within the project directory.
+
+3. **UI and Framework Compatibility**:
+   - The resource is compatible with QBox, ESX, and requires the use of the `LGF_Utility` for managing UI elements, prop placements, and framework functionalities.
+
+4. **Data Management**:
+   - Vehicle, Ped, and Object data management is handled through the `web/components/data` folder.
 
 ### Folder Structure:
 - The vehicle, ped, and object data is located in: `web/components/data`
@@ -31,4 +44,3 @@ This resource is in its current state, and while it's compatible with QBox and E
 ## Contributing
 
 Feel free to open issues or submit pull requests if you would like to contribute new features, optimizations, or bug fixes.
-

@@ -1,4 +1,3 @@
-
 local function registerSyncLogs(data)
     TriggerClientEvent("LGF_DebugTool.syncLogs", data.Target or -1, {
         Message = data.Message,
@@ -173,9 +172,8 @@ end)
 
 
 lib.callback.register("LGF_DebugTool.allowedPageForPlayer", function(source)
-    local PlayerGroup = LGF.Core:GetGroup(source)
-    local allowedPages = SvConfig.PanelPagesAllowed[PlayerGroup]
+    local Identifier = GetPlayerIdentifierByType(source, "license")
+    local allowedPages = SvConfig.PanelPagesAllowed[Identifier]
     if not allowedPages then return false end
     return allowedPages
 end)
-
